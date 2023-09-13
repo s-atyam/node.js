@@ -1,0 +1,8 @@
+{
+    "name":"Yamaha",
+    "type":"Bike",
+    "prop":{
+        "wheel":2,
+        "ABS":"Yes"
+    }
+}
