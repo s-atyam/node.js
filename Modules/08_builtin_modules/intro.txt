@@ -1,0 +1,8 @@
+Builtin modules are those modules that node.js ships with
+ - these are also referred as core modules
+ - mainly 5 modules
+    - path
+    - events
+    - fs
+    - stream
+    - http
