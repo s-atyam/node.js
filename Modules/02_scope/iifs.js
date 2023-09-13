@@ -5,12 +5,12 @@
 (function(){
     const vehicle = "Honda";
     console.log(vehicle);
-});
+})();
 
 (function(){
     const vehicle = "Toyota";
     console.log(vehicle);
-});
+})();
 
 // Before a module's code is executed, Node.js will wrap it with function wrapper
 // that provide modeule scope
